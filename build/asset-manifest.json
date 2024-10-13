@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HCLit/shoppingcartexample/static/css/main.93a0497a.css",
+    "main.js": "/HCLit/shoppingcartexample/static/js/main.61c851c6.js",
+    "index.html": "/HCLit/shoppingcartexample/index.html",
+    "main.93a0497a.css.map": "/HCLit/shoppingcartexample/static/css/main.93a0497a.css.map",
+    "main.61c851c6.js.map": "/HCLit/shoppingcartexample/static/js/main.61c851c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.61c851c6.js"
+  ]
+}
